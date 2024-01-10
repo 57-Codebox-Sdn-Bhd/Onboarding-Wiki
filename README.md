@@ -1,2 +1,2 @@
 # Onboarding-Wiki
-Onboarding wiki guide for newcomers.
+Start exploring - [Here](https://github.com/57-Codebox/Onboarding-Wiki/wiki)
